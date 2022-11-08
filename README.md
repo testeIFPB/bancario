@@ -1,4 +1,4 @@
-Descriçao do Sistema Bancário
+Descrição do Sistema Bancário
 
 Ao abrir uma conta o cliente informará seus dados pessoais ao funcionário do banco para ser armazenado no sistema. Quando cadastrado o cliente receberá por email suas informações da conta e receberá por correio seu cartão.
 
